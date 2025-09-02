@@ -11,8 +11,8 @@ let package = Package(
   targets: [
     .binaryTarget(
       name: "GimiiSDK",
-      url: "https://github.com/Gimii-solutions/gimii-ios-sdk/releases/download/1.0.10/GimiiSDK.xcframework.zip",
-      checksum: "5db04ab229a5e6d9b5a2344513477bf3433b8f0db98d8cfae60c70acbb913aec"
+      url: "https://github.com/Gimii-solutions/gimii-ios-sdk/releases/download/1.0.12/GimiiSDK.xcframework.zip",
+      checksum: "ed4ac01a7104e77af52475b9833d55c7c9e76fa7c1913f28e9cac3a3b85416f8"
     )
   ]
 )
