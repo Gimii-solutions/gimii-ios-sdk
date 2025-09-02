@@ -16,8 +16,7 @@ let package = Package(
       ),
     ],
     dependencies: [
-      .package(url: "https://github.com/Gimii-solutions/gimii-ios-sdk/releases/download/1.0.0/GimiiSDK.xcframework.zip",
-      .package(url: "https://github.com/Gimii-solutions/gimii-ios-sdk/releases/download/1.0.0/GimiiSDK.xcframework.zip",
+      .package(url: "https://github.com/Gimii-solutions/gimii-ios-sdk/releases/download/1.0.0/GimiiSDK.xcframework.zip")
     ],
     targets: [
         .target(
