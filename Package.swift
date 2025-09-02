@@ -16,8 +16,8 @@ let package = Package(
       ),
     ],
     dependencies: [
-      .package(url: "https://github.com/didomi/didomi-ios-sdk-spm", exact: "1.87.0"),
-      .package(url: "https://github.com/googleads/swift-package-manager-google-mobile-ads", exact: "11.10.0")
+      .package(url: "https://github.com/Gimii-solutions/gimii-ios-sdk/releases/download/1.0.0/GimiiSDK.xcframework.zip",
+      .package(url: "https://github.com/Gimii-solutions/gimii-ios-sdk/releases/download/1.0.0/GimiiSDK.xcframework.zip",
     ],
     targets: [
         .target(
